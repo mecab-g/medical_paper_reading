@@ -1,0 +1,88 @@
+# Medical Paper Reading Comprehension Task
+# 医学系英語論文読解問題作成タスク
+
+## Task Overview / タスク概要
+Create reading comprehension questions for a doctoral program entrance examination in medicine, based on medical research papers similar to those published in NATURE.
+
+NATURE誌などの医学系英語論文を題材とした医学部博士課程入学試験用の読解問題を作成します。
+
+## Examination Format / 試験形式
+- Total Duration: 90 minutes / 試験時間：90分
+- Target Level: Doctoral Program in Medicine / 対象レベル：医学部博士課程
+
+## Content Structure / 構成
+1. Source Material / 出題素材:
+   - 2 different medical research papers / 2つの異なる医学論文
+   - 4 chapters excerpted from each paper / 各論文から4章を抜粋
+   - Length: 600-800 words per excerpt / 各抜粋600〜800語程度
+   - Style: Similar to NATURE journal articles / NATURE誌スタイルの論文形式
+
+2. Question Format / 問題形式:
+   - 2-3 questions per paper / 各論文につき2〜3問
+   - Answers should be written in Japanese / 解答は日本語で記述
+   - Focus on comprehensive understanding / 総合的な理解力を問う
+
+3. Question Types / 設問タイプ:
+   - Explanation of mechanisms / メカニズムの説明
+   - Research objectives and significance / 研究の目的や意義
+   - Interpretation of results / 結果の解釈
+   - Clinical application considerations / 臨床応用への考察
+
+## Requirements for Generated Content / 作成する内容の要件
+1. Paper Selection / 論文選択基準:
+   - Current medical research topics / 最新の医学研究トピック
+   - Clear methodology and results / 明確な研究手法と結果
+   - Clinical relevance / 臨床的関連性
+   - Complex enough for doctoral level / 博士課程レベルの複雑さ
+
+2. Questions Should / 問題の要件:
+   - Test deep understanding / 深い理解力の評価
+   - Require analytical thinking / 分析的思考力の要求
+   - Connect theory with practical applications / 理論と実践の結びつき
+   - Evaluate scientific reasoning / 科学的推論力の評価
+
+3. Expected Answer Level / 期待される解答レベル:
+   - Doctoral program standard / 博士課程水準
+   - Comprehensive understanding of medical concepts / 医学概念の包括的理解
+   - Ability to interpret research findings / 研究結果の解釈能力
+   - Critical analysis skills / 批判的分析能力
+
+## Output Format / 出力形式
+For each paper / 各論文について:
+1. Title and context / タイトルと背景
+2. Selected excerpt (600-800 words) / 選択された抜粋（600-800語）
+3. 2-3 questions in Japanese / 日本語での2-3問の設問
+4. Model answers for evaluation / 評価用の模範解答
+
+## File Structure / ファイル構成:
+1. Question File (例題_{番号}_問題.txt):
+   - Original English text / 英文
+   - Questions in Japanese / 日本語での設問
+   
+2. Answer and Explanation File (例題_{番号}_解答解説.txt):
+   - Japanese translation of the text / 英文の和訳
+   - Model answers / 模範解答
+   - Important vocabulary / 重要語彙
+   - Grammar points / 文法・構文の解説
+   - Reading comprehension tips / 読解のポイント
+
+## Question Creation Format / 問題作成形式
+1. Main Text Format / 本文形式:
+   - Original English text / 英語原文
+   - Japanese translation for each sentence / 一文ごとの日本語訳
+
+2. Question Format / 問題形式:
+   - Questions in Japanese / 日本語による設問
+   - Clear and specific instructions / 明確な指示
+
+3. Answer Guide Format / 解説形式:
+   - Detailed explanation of the answer / 解答の詳細な説明
+   - Important vocabulary and phrases / 重要な語彙とフレーズ
+   - Key grammatical points / 重要な文法事項
+   - Analysis of complex sentence structures / 複雑な文構造の分析
+
+4. File Structure / ファイル構成:
+   - Main prompt file (this file) / メインプロンプトファイル（本ファイル）
+   - Separate files for each example question / 例題ごとに別ファイル
+     - Example_Question_{Number}.txt / 例題_{番号}.txt
+     - Contains: Text, questions, and comprehensive explanations / 本文、設問、詳細な解説を含む 
