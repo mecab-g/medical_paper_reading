@@ -1,0 +1,99 @@
+# Example Question 1: Answer and Explanation
+# 例題1：解答・解説
+
+## Original Text with Translation / 原文と和訳
+
+1. Recent advances in understanding the pathophysiology of type 2 diabetes have led to the development of innovative therapeutic approaches targeting multiple metabolic pathways. The complex interplay between insulin resistance, pancreatic β-cell dysfunction, and various metabolic abnormalities has highlighted the need for comprehensive treatment strategies that address multiple aspects of the disease simultaneously.
+   最近の2型糖尿病の病態生理の理解の進歩により、複数の代謝経路を標的とする革新的な治療アプローチの開発が進んでいます。インスリン抵抗性、膵臓β細胞機能障害、および様々な代謝異常の複雑な相互作用により、疾患の複数の側面に同時に対処する包括的な治療戦略の必要性が浮き彫りになっています。
+
+2. Our study demonstrates that the novel compound XYZ-789 exhibits dual action by enhancing insulin sensitivity in peripheral tissues while simultaneously increasing glucose-dependent insulin secretion from pancreatic β-cells. This unique mechanism of action represents a significant advancement over existing therapeutic options, which typically target either insulin sensitivity or insulin secretion, but rarely both. Preliminary studies in animal models showed promising results, with significant improvements in glucose homeostasis and preservation of β-cell function over extended periods.
+   我々の研究では、新規化合物XYZ-789が、末梢組織におけるインスリン感受性を高めると同時に、膵臓β細胞からのグルコース依存性インスリン分泌を増加させるという二重作用を示すことを実証しています。この独特な作用機序は、通常はインスリン感受性かインスリン分泌のいずれかのみを標的とする既存の治療選択肢と比較して、大きな進歩を表しています。動物モデルでの予備研究では、グルコースの恒常性の著明な改善とβ細胞機能の長期的な保持という有望な結果が示されました。
+
+3. In a randomized, double-blind, placebo-controlled trial involving 450 patients with poorly controlled type 2 diabetes (HbA1c ≥ 7.5%), treatment with XYZ-789 for 24 weeks resulted in a significant reduction in HbA1c levels (-1.8% vs -0.2% in placebo group, p<0.001).
+   コントロール不良の2型糖尿病患者（HbA1c ≥ 7.5%）450名を対象とした無作為化二重盲検プラセボ対照試験において、XYZ-789による24週間の治療により、HbA1cレベルの有意な低下が認められました（プラセボ群の-0.2%に対して-1.8%、p<0.001）。
+
+4. Moreover, this improvement in glycemic control was accompanied by a favorable safety profile, with no significant increase in hypoglycemic events or body weight gain.
+   さらに、この血糖コントロールの改善は、低血糖イベントや体重増加の有意な増加を伴わない、良好な安全性プロファイルを示しました。
+
+## Answer Guide / 解答解説
+
+【問1の解答例】（15点）
+1. XYZ-789の作用機序
+   - 二重作用メカニズム：
+     a) 末梢組織でのインスリン感受性の向上
+     b) 膵臓β細胞からのグルコース依存性インスリン分泌の促進
+
+2. 既存治療薬との比較における特徴
+   - 従来の薬剤は通常、インスリン感受性またはインスリン分泌のいずれかのみを標的
+   - XYZ-789は両方の作用を併せ持つ画期的な薬剤
+   - 動物実験で長期的なβ細胞機能保護効果を確認
+
+【問2の解答例】（20点）
+1. 主要評価項目における有効性
+   - HbA1cの有意な低下（-1.8% vs プラセボ群-0.2%）
+   - 統計学的有意差の確認（p<0.001）
+
+2. 安全性プロファイル
+   - 低血糖イベントの有意な増加なし
+   - 体重増加の有意な増加なし
+   - 既存治療の主な制限要因である副作用を回避
+
+3. 二次評価項目の結果
+   - 空腹時血糖値の改善（ベースラインから2.3 mmol/L低下）
+   - 食後血糖値の変動抑制
+   - インスリン抵抗性マーカー（HOMA-IR）の改善
+   - β細胞機能の保持・改善（disposition indexによる評価）
+
+【問3の解答例】（15点）
+1. 臨床応用における利点
+   - 1日1回投与の簡便な用法
+   - 主要な併用薬との相互作用が最小限
+   - 幅広い患者層での有効性（年齢、性別、BMI、罹病期間によらず）
+   - 高い服薬アドヒアランスが期待される
+
+2. 今後の研究課題
+   - 心血管系への影響の詳細な評価が必要
+   - 長期的な安全性の確認（現在52週まで）
+   - 血圧・脂質プロファイルへの影響の検証
+   - 専門的な心血管アウトカム試験の実施
+
+## Important Vocabulary and Grammar Points / 重要な語彙と文法事項
+
+【重要語彙】
+- pathophysiology: 病態生理学
+- therapeutic approaches: 治療アプローチ
+- peripheral tissues: 末梢組織
+- glucose homeostasis: 血糖恒常性
+- disposition index: インスリン分泌能指標
+- pharmacokinetic profile: 薬物動態プロファイル
+- drug-drug interaction: 薬物相互作用
+- cardiovascular outcome trials: 心血管アウトカム試験
+
+【文法・構文のポイント】
+1. "while simultaneously increasing..."
+   - while + 分詞構文で「〜しながら同時に」を表現
+   - 複数の作用を同時に説明する際の効果的な構文
+
+2. "This unique mechanism of action represents..."
+   - represent: 「〜を表す、示す」
+   - 科学論文で重要な特徴を強調する際の表現
+
+3. Passive voice（受動態）の多用
+   - "was accompanied by"
+   - "were significantly attenuated"
+   - 科学論文での客観的な記述に特徴的
+
+【読解のポイント】
+1. 論文の構造理解
+   - 背景→作用機序→臨床試験結果→追加分析の流れ
+   - 各段落の主題を把握
+
+2. データの解釈
+   - 数値データの正確な読み取り
+   - 統計的有意性の理解
+   - 対照群との比較
+
+3. 科学的な因果関係
+   - 作用機序と臨床効果の関連
+   - 副次的効果の理解
+   - 長期的な影響の考察 

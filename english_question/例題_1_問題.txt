@@ -1,0 +1,31 @@
+# Example Question 1: Novel Treatment Approach for Type 2 Diabetes
+# 例題1：2型糖尿病の新規治療アプローチ
+
+## Original Text / 英文
+
+Recent advances in understanding the pathophysiology of type 2 diabetes have led to the development of innovative therapeutic approaches targeting multiple metabolic pathways. The complex interplay between insulin resistance, pancreatic β-cell dysfunction, and various metabolic abnormalities has highlighted the need for comprehensive treatment strategies that address multiple aspects of the disease simultaneously.
+
+Our study demonstrates that the novel compound XYZ-789 exhibits dual action by enhancing insulin sensitivity in peripheral tissues while simultaneously increasing glucose-dependent insulin secretion from pancreatic β-cells. This unique mechanism of action represents a significant advancement over existing therapeutic options, which typically target either insulin sensitivity or insulin secretion, but rarely both. Preliminary studies in animal models showed promising results, with significant improvements in glucose homeostasis and preservation of β-cell function over extended periods.
+
+In a randomized, double-blind, placebo-controlled trial involving 450 patients with poorly controlled type 2 diabetes (HbA1c ≥ 7.5%), treatment with XYZ-789 for 24 weeks resulted in a significant reduction in HbA1c levels (-1.8% vs -0.2% in placebo group, p<0.001). The study population included patients from diverse ethnic backgrounds and varying degrees of disease progression, making the results broadly applicable to real-world clinical settings.
+
+Moreover, this improvement in glycemic control was accompanied by a favorable safety profile, with no significant increase in hypoglycemic events or body weight gain. This is particularly noteworthy as weight gain and hypoglycemia are common limiting factors in the current therapeutic landscape of type 2 diabetes management.
+
+Detailed analysis of secondary endpoints revealed additional beneficial effects of XYZ-789. Fasting plasma glucose levels showed a mean reduction of 2.3 mmol/L compared to baseline, and postprandial glucose excursions were significantly attenuated. Markers of insulin resistance, including HOMA-IR, demonstrated substantial improvement, suggesting enhanced insulin sensitivity in target tissues. Furthermore, measures of β-cell function, such as the disposition index, showed preservation and even improvement over the study period, indicating a potential protective effect on pancreatic β-cells.
+
+The pharmacokinetic profile of XYZ-789 supports once-daily dosing, with steady-state plasma concentrations achieved within one week of treatment initiation. Drug-drug interaction studies have shown minimal potential for clinically significant interactions with commonly prescribed medications in the target patient population, including metformin, statins, and antihypertensive agents.
+
+Subgroup analyses indicated consistent efficacy across different patient demographics, including age, gender, body mass index, and duration of diabetes. Notably, patients with longer disease duration (>10 years) showed comparable improvements in glycemic control, suggesting that XYZ-789 may be effective even in patients with more advanced disease. Quality of life assessments revealed high treatment satisfaction scores, primarily attributed to the simplified dosing regimen and minimal side effects.
+
+Long-term follow-up data from an ongoing extension study (currently at 52 weeks) continue to demonstrate sustained glycemic control without significant safety concerns. Preliminary results suggest potential cardiovascular benefits, with modest improvements in blood pressure and lipid profiles, although these findings require confirmation in dedicated cardiovascular outcome trials.
+
+## Questions / 設問
+
+問1. 本研究で使用された新規化合物XYZ-789の作用機序について説明しなさい。また、既存の治療薬と比較した際の特徴について述べなさい。
+（配点：15点）
+
+問2. 臨床試験の結果から、XYZ-789の有効性と安全性について考察しなさい。その際、二次評価項目の結果も含めて総合的に論じなさい。
+（配点：20点）
+
+問3. 本薬剤の臨床応用における利点と、今後の研究課題について述べなさい。
+（配点：15点） 
