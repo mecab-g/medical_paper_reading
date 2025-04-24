@@ -1,7 +1,8 @@
-# Example Question 2: Novel Cancer Immunotherapy Approach
-# 例題2：新規がん免疫療法アプローチ
+# Example Question 2: Novel Cancer Immunotherapy Approach (7 words)
+# 例題2：新規がん免疫療法アプローチ（6語）
 
 ## Original Text / 英文
+[Total words: approximately 580 words]
 
 Recent advances in cancer immunotherapy have revolutionized the treatment landscape for various malignancies, yet significant challenges remain in achieving consistent therapeutic responses across patient populations. Our research focuses on a novel approach that combines targeted immune checkpoint modulation with enhanced T-cell activation, potentially addressing several key limitations of current immunotherapeutic strategies.
 

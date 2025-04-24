@@ -1,0 +1,18 @@
+# Microbiome-Based Diagnostics and Therapy in IBD Management (9 words)
+# 腸内細菌叢に基づくIBDの診断と治療（8語）
+
+以下の英文を読み、設問に答えなさい。
+
+Recent advances in microbiome research have revolutionized our understanding of inflammatory bowel disease (IBD). A landmark study published in Nature Medicine presents a novel, non-invasive diagnostic approach using gut microbiome signatures. The researchers analyzed stool samples from 2,800 participants, including IBD patients and healthy controls, using high-throughput sequencing and machine learning algorithms. They identified distinct microbial patterns associated with different IBD subtypes and disease severity.
+
+The study revealed that specific bacterial species and their metabolites serve as reliable biomarkers for IBD diagnosis and monitoring. Using a panel of 35 bacterial taxa and their associated metabolomic profiles, the researchers developed a diagnostic algorithm achieving 92% sensitivity and 88% specificity in distinguishing IBD from other gastrointestinal conditions. This microbiome-based diagnostic tool showed particular strength in detecting early-stage disease and predicting flare-ups weeks before clinical symptoms appeared.
+
+Furthermore, the research team developed a personalized therapeutic approach based on these microbiome signatures. By analyzing the depletion or enrichment of specific bacterial species, they created customized probiotic combinations for individual patients. In a subsequent clinical trial involving 180 patients, this personalized microbiome therapy led to significant improvements in clinical outcomes. After 16 weeks of treatment, 72% of patients showed reduced disease activity scores, and 45% achieved complete remission.
+
+The study also demonstrated the potential of microbiome analysis in predicting treatment response. By integrating microbiome data with host genetic factors and immune markers, the researchers developed a predictive model that could identify patients most likely to respond to specific treatments with 85% accuracy. This approach represents a significant step toward precision medicine in IBD management, potentially reducing the time and cost associated with finding effective treatments for individual patients.
+
+【問1】本研究で開発された新しい診断アプローチの特徴と成果について、200字程度の日本語で説明しなさい。
+
+【問2】微生物叢シグネチャーに基づく個別化治療の方法と臨床試験の結果について、200字程度の日本語で説明しなさい。
+
+【問3】この研究が IBD の診療にもたらす革新的な点について、200字程度の日本語で説明しなさい。 

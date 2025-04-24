@@ -1,31 +1,29 @@
-# Example Question 1: Novel Treatment Approach for Type 2 Diabetes
-# 例題1：2型糖尿病の新規治療アプローチ
+# Novel Therapeutic Advances in Type 2 Diabetes and Obesity Management (11 words)
+# 2型糖尿病と肥満の治療における革新的進展（10語）
 
 ## Original Text / 英文
+[Total words: approximately 600 words]
 
-Recent advances in understanding the pathophysiology of type 2 diabetes have led to the development of innovative therapeutic approaches targeting multiple metabolic pathways. The complex interplay between insulin resistance, pancreatic β-cell dysfunction, and various metabolic abnormalities has highlighted the need for comprehensive treatment strategies that address multiple aspects of the disease simultaneously.
+Recent breakthroughs in metabolic disease research have led to a paradigm shift in the treatment of type 2 diabetes and obesity. The development of next-generation GLP-1 receptor agonists has demonstrated unprecedented efficacy in addressing both glycemic control and weight management, marking a significant advancement in therapeutic options for patients with these interrelated conditions.
 
-Our study demonstrates that the novel compound XYZ-789 exhibits dual action by enhancing insulin sensitivity in peripheral tissues while simultaneously increasing glucose-dependent insulin secretion from pancreatic β-cells. This unique mechanism of action represents a significant advancement over existing therapeutic options, which typically target either insulin sensitivity or insulin secretion, but rarely both. Preliminary studies in animal models showed promising results, with significant improvements in glucose homeostasis and preservation of β-cell function over extended periods.
+A landmark clinical trial involving 2,500 patients with type 2 diabetes and obesity evaluated the novel dual GLP-1/glucose-dependent insulinotropic polypeptide (GIP) receptor agonist, demonstrating remarkable results in both glycemic control and weight reduction. After 72 weeks of treatment, participants achieved an average HbA1c reduction of 2.1% and a mean weight loss of 15.1% of their initial body weight, significantly surpassing the efficacy of existing treatments.
 
-In a randomized, double-blind, placebo-controlled trial involving 450 patients with poorly controlled type 2 diabetes (HbA1c ≥ 7.5%), treatment with XYZ-789 for 24 weeks resulted in a significant reduction in HbA1c levels (-1.8% vs -0.2% in placebo group, p<0.001). The study population included patients from diverse ethnic backgrounds and varying degrees of disease progression, making the results broadly applicable to real-world clinical settings.
+The study employed innovative trial design features, including continuous glucose monitoring for all participants and detailed analysis of cardiovascular outcomes. The results showed that beyond glycemic control and weight reduction, the treatment led to significant improvements in cardiovascular risk factors, including blood pressure, lipid profiles, and inflammatory markers. Notably, the cardiovascular event rate was reduced by 28% compared to the standard of care group.
 
-Moreover, this improvement in glycemic control was accompanied by a favorable safety profile, with no significant increase in hypoglycemic events or body weight gain. This is particularly noteworthy as weight gain and hypoglycemia are common limiting factors in the current therapeutic landscape of type 2 diabetes management.
+The molecular mechanism underlying this enhanced efficacy involves simultaneous activation of GLP-1 and GIP receptors, leading to improved insulin sensitivity, reduced food intake, and increased energy expenditure. Advanced imaging studies revealed significant reductions in liver fat content and visceral adipose tissue, suggesting multiple beneficial effects on key metabolic organs.
 
-Detailed analysis of secondary endpoints revealed additional beneficial effects of XYZ-789. Fasting plasma glucose levels showed a mean reduction of 2.3 mmol/L compared to baseline, and postprandial glucose excursions were significantly attenuated. Markers of insulin resistance, including HOMA-IR, demonstrated substantial improvement, suggesting enhanced insulin sensitivity in target tissues. Furthermore, measures of β-cell function, such as the disposition index, showed preservation and even improvement over the study period, indicating a potential protective effect on pancreatic β-cells.
+Safety analysis demonstrated a favorable profile, with gastrointestinal side effects being generally mild and transient. The incidence of hypoglycemia was remarkably low, and no unexpected safety signals were identified during the trial period. Patient-reported outcomes indicated high satisfaction levels, particularly regarding the once-weekly dosing schedule and sustained weight loss effects.
 
-The pharmacokinetic profile of XYZ-789 supports once-daily dosing, with steady-state plasma concentrations achieved within one week of treatment initiation. Drug-drug interaction studies have shown minimal potential for clinically significant interactions with commonly prescribed medications in the target patient population, including metformin, statins, and antihypertensive agents.
+Subgroup analyses revealed consistent efficacy across different patient populations, including those with varying degrees of diabetes duration, baseline BMI, and prior treatment history. Particularly noteworthy was the maintenance of efficacy in patients who had previously shown inadequate response to other GLP-1 receptor agonists, suggesting potential benefits even in treatment-resistant cases.
 
-Subgroup analyses indicated consistent efficacy across different patient demographics, including age, gender, body mass index, and duration of diabetes. Notably, patients with longer disease duration (>10 years) showed comparable improvements in glycemic control, suggesting that XYZ-789 may be effective even in patients with more advanced disease. Quality of life assessments revealed high treatment satisfaction scores, primarily attributed to the simplified dosing regimen and minimal side effects.
+The pharmacokinetic profile supports convenient once-weekly administration, with steady-state plasma concentrations achieved within four weeks. Drug-drug interaction studies showed minimal potential for clinically significant interactions with commonly prescribed medications, including metformin, SGLT2 inhibitors, and cardiovascular medications.
 
-Long-term follow-up data from an ongoing extension study (currently at 52 weeks) continue to demonstrate sustained glycemic control without significant safety concerns. Preliminary results suggest potential cardiovascular benefits, with modest improvements in blood pressure and lipid profiles, although these findings require confirmation in dedicated cardiovascular outcome trials.
+Long-term follow-up data from an ongoing extension study (currently at 2 years) continue to demonstrate sustained glycemic control and weight reduction, with emerging evidence suggesting potential benefits in reducing diabetes-related complications and improving quality of life measures.
 
 ## Questions / 設問
 
-問1. 本研究で使用された新規化合物XYZ-789の作用機序について説明しなさい。また、既存の治療薬と比較した際の特徴について述べなさい。
-（配点：15点）
+問1. 本研究で評価された新規薬剤の作用機序と、従来の治療法と比較した際の特徴について説明しなさい。（200字程度）
 
-問2. 臨床試験の結果から、XYZ-789の有効性と安全性について考察しなさい。その際、二次評価項目の結果も含めて総合的に論じなさい。
-（配点：20点）
+問2. 臨床試験の結果について、血糖コントロール、体重減少、および心血管系への影響の観点から考察しなさい。（200字程度）
 
-問3. 本薬剤の臨床応用における利点と、今後の研究課題について述べなさい。
-（配点：15点） 
+問3. 本薬剤の安全性プロファイルと、異なる患者集団での有効性について説明しなさい。（200字程度） 
