@@ -1,51 +1,34 @@
-# Cousor Tasks Repository
+# 医療英語学習問題集
 
-このリポジトリは、Cursor IDEで使用するプロンプトとタスクを保存しています。
+このリポジトリには、医療・生命科学分野の英語論文を題材にした学習問題と解答解説が含まれています。
 
-## 概要
+## コンテンツ構成
 
-- Cursor IDEで使用するプロンプトファイルの保存
-- 各種タスクの保存と管理
-- タスクごとに1つのプロンプトファイルを使用
+各例題は以下のファイルで構成されています：
+- `例題_X_問題.md`: 原文と設問
+- `例題_X_解答解説.md`: 解答例、解説、専門用語解説
 
-## ファイル構造
+## 例題一覧
 
-### タスク管理
-- 全てのタスクは`memory`ディレクトリで管理
-- 各タスクは1つのプロンプトファイルとして保存
-例：`memory/medical_paper_reading_task.txt`
+1. **Immunotherapy at the Frontiers of Solid Tumor Treatment** (英文約600～800語)  
+   T細胞ベースの免疫療法と固形腫瘍治療に関する問題
 
-### 成果物の保存
-- 各タスクの成果物は、対応するプロンプトと同名のディレクトリに保存
-- ディレクトリ構造例：
-  ```
-  memory/
-  ├── medical_paper_reading_task.txt     # プロンプトファイル
-  ├── medical_paper_reading_task/        # 成果物用ディレクトリ
-  │   ├── generated_papers/
-  │   └── analysis_results/
-  ├── english_question_task.txt          # 別のタスクのプロンプト
-  └── english_question_task/             # 対応する成果物ディレクトリ
-      ├── questions/
-      └── answers/
-  ```
+2. **Gut Microbiome Signatures in Cancer Immunotherapy Response** (英文約700語)  
+   腸内細菌叢とがん免疫療法の関係に関する問題
 
-### タスク例
-- 医学論文読解タスク: `memory/medical_paper_reading_task.txt`
-  - 医学論文の読解に関するプロンプト
+3. **Artificial Intelligence in Medical Imaging** (英文約1,000語)  
+   医療画像診断におけるAI技術の応用に関する問題
 
-### プロンプト利用例
-- english_question: プロンプトを利用して英語読解問題を作成
-  - 医学論文の読解問題と解答を生成
-  - 2型糖尿病やがん免疫療法などの専門的な内容に対応
+4. **CRISPR Gene Editing: Therapeutic Applications and Ethical Considerations** (英文約700語)  
+   CRISPR遺伝子編集技術の治療応用と倫理的考察に関する問題
 
-## プロンプトファイルの形式
+## 使用方法
 
-- 各タスクは1つのテキストファイルとして保存
-- ファイル名は内容を反映した分かりやすい名前を使用
-- 必要に応じて日本語・英語のプロンプトを含める
+1. 最初に問題文を読み、設問に解答してください
+2. 解答後、解答解説ファイルを参照して理解を深めてください
+3. 専門用語解説と読解ポイントを活用して学習効果を高めることができます
 
-## 今後の予定
+## 注意点
 
-- タスクの種類を順次追加予定
-- プロンプトの最適化と改善 
+- 各問題の語数は約600～1,000語で、実際の医学論文から抜粋・編集されています
+- 解答例の文字数は200字程度を目安としています 
