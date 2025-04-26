@@ -28,6 +28,9 @@
 6. **Neural Plasticity-Based Rehabilitation Enhances Motor Recovery in Post-Stroke Patients** (英文約700語)  
    神経可塑性に基づくリハビリテーションが脳卒中後の運動機能回復を促進する研究に関する問題
 
+7. **Organoid Technology Revolutionizes Drug Development and Personalized Medicine** (英文約750語)  
+   オルガノイド技術が薬剤開発と個別化医療を革新する研究に関する問題
+
 ## 使用方法
 
 1. 最初に問題文を読み、設問に解答してください
