@@ -10,17 +10,23 @@
 
 ## 例題一覧
 
-1. **Immunotherapy at the Frontiers of Solid Tumor Treatment** (英文約600～800語)  
-   T細胞ベースの免疫療法と固形腫瘍治療に関する問題
+1. **Hippocampal Replay During Sleep Consolidates Remote Memory in Humans** (英文約700語)  
+   睡眠中の海馬リプレイがヒトの遠隔記憶を固定化する研究に関する問題
 
-2. **Gut Microbiome Signatures in Cancer Immunotherapy Response** (英文約700語)  
-   腸内細菌叢とがん免疫療法の関係に関する問題
+2. **Precision CRISPR-Cas9 Gene Editing Enhances Cancer Immunotherapy Response** (英文約700語)  
+   精密CRISPR-Cas9遺伝子編集がガン免疫療法の反応を向上させる研究に関する問題
 
-3. **Artificial Intelligence in Medical Imaging** (英文約1,000語)  
-   医療画像診断におけるAI技術の応用に関する問題
+3. **Artificial Intelligence Revolutionizes Early Detection of Neurodegenerative Diseases** (英文約750語)  
+   人工知能が神経変性疾患の早期発見を革新する研究に関する問題
 
-4. **CRISPR Gene Editing: Therapeutic Applications and Ethical Considerations** (英文約700語)  
-   CRISPR遺伝子編集技術の治療応用と倫理的考察に関する問題
+4. **Beyond COVID-19: mRNA Vaccine Technology Transforms Cancer Immunotherapy** (英文約700語)  
+   COVID-19を超えて：mRNAワクチン技術ががん免疫療法を変革する研究に関する問題
+
+5. **The Gut-Brain Axis: New Frontiers in Understanding Neuropsychiatric Disorders** (英文約750語)  
+   腸脳相関：神経精神疾患の理解における新たな前線に関する研究に関する問題
+
+6. **Neural Plasticity-Based Rehabilitation Enhances Motor Recovery in Post-Stroke Patients** (英文約700語)  
+   神経可塑性に基づくリハビリテーションが脳卒中後の運動機能回復を促進する研究に関する問題
 
 ## 使用方法
 
@@ -30,5 +36,5 @@
 
 ## 注意点
 
-- 各問題の語数は約600～1,000語で、実際の医学論文から抜粋・編集されています
+- 各問題の語数は約700～750語で、実際の医学論文から抜粋・編集されています
 - 解答例の文字数は200字程度を目安としています 
